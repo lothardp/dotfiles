@@ -13,4 +13,5 @@ alias ebashrc='nvim ~/.bashrc'
 alias evimrc='nvim ~/.config/nvim/init.vim'
 alias aliases='nvim ~/.bash_aliases'
 alias open='xdg-open'
-
+alias gis='git status'
+alias gip='git pull -p'
